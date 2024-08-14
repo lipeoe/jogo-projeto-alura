@@ -10,9 +10,9 @@
 <p>
   Um projeto simples que conta com algumas funções como:
   <ul>
-    <li>Possibilitar o jogador a criar um novo jogo por meio de um botão</li>
-    <li>Dicas para ajudá-lo a acertar o número caso tenha errado</li>
-    <li>Sistema de audiodescrição deficientes visuais, que pode ser ativado ou desativado pelo usuário ao iniciar. </li>
+    <li>Possibilitar o jogador a criar um novo jogo por meio de um botão;</li>
+    <li>Dicas para ajudá-lo a acertar o número caso tenha errado;</li>
+    <li>Sistema de audiodescrição que pode ser ativado ou desativado pelo usuário ao iniciar. </li>
   </ul>
   <p>O jogo foi feito utilizando <strong>HTML - CSS - JavaScript.</strong> </p>
 </p>
